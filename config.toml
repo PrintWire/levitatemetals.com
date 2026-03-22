@@ -1,0 +1,183 @@
+baseURL = "https://levitatemetals.com/"
+languageCode = "en-us"
+title = "Levitate Metals"
+theme = "printwire"
+
+[params]
+tagline       = "Exotic and advanced metal alloys for additive manufacturing — refractory metals, high-entropy alloys, and speciality AM feedstock."
+description   = "Levitate Metals covers exotic metal alloys for additive manufacturing — tungsten, molybdenum, tantalum, and high-entropy alloys for extreme-environment applications."
+keywords      = "exotic metal AM, refractory metal powder, tungsten 3D printing, high entropy alloy, tantalum powder, molybdenum AM, advanced metal alloys"
+logoEmoji     = "✨"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#94a3b8"
+colorPrimaryDark  = "#7a8fa5"
+colorPrimaryLight = "#b8c7d9"
+colorBgDark       = "#06070d"
+colorBgSection    = "#09090f"
+colorBgCard       = "#0e0f18"
+colorBgCardHover  = "#121320"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Space+Grotesk"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+
+heroEyebrow  = "Exotic Metal AM"
+heroTitle    = "Levitate <em>Metals</em>"
+heroSubtitle = "Exotic and advanced metal alloys for additive manufacturing — refractory metals, high-entropy alloys, and speciality AM feedstock."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+overviewTitle   = "Metals Beyond Conventional AM"
+overviewText    = "Tungsten for radiation shielding. Tantalum for corrosive environments. High-entropy alloys for extreme mechanical performance. Speciality alloys that push the limits of AM."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Levitate Metals Services"
+servicesSubtitle = "Exotic and advanced metal alloys for additive manufacturing — refractory metals, high-entropy alloys, and speciality AM feedstock."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Exotic and advanced metal alloys for additive manufacturing — refractory metals, high-entropy alloys, and speciality AM feedstock."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 3422
+suffix = "°C"
+label  = "Tungsten Melting Point"
+
+[[params.stats]]
+count  = 99.5
+suffix = "%"
+label  = "Density (W EBM)"
+
+[[params.stats]]
+count  = 20
+suffix = "+"
+label  = "Refractory & HEA Alloys"
+
+[[params.stats]]
+count  = 5
+suffix = "x"
+label  = "Higher Temp Rating vs Inconel"
+
+
+[[params.applications]]
+title       = "Radiation Shielding"
+description = "Pure tungsten and W-Cu composites for X-ray shielding, nuclear applications, and medical devices."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Extreme Temperature Parts"
+description = "Molybdenum and rhenium components for rocket nozzles, plasma-facing components, and furnace hardware."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Corrosion-Resistant Parts"
+description = "Tantalum and niobium for chemical processing in highly corrosive acid environments."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "HEA Research & Production"
+description = "High-entropy alloy powder and parts for research into next-generation structural materials."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "✨"
+title       = "Tungsten & Refractory AM"
+description = "W, Mo, Re, Ta, and Nb printing via EBM and LPBF — density >99%, complex internal channels possible."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "High-Entropy Alloys"
+description = "HEA powder production and LPBF printing — CrMnFeCoNi and custom compositions for R&D and production."
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Speciality Powder Supply"
+description = "Small-lot exotic powder supply — refractory metals, precious metals, and custom alloy blends from 100g."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Materials Consulting"
+description = "Alloy selection and process development for extreme-environment AM applications — DfAM and material characterisation."
+
+
+[[params.services]]
+name        = "Tungsten & Refractory AM"
+description        = "W, Mo, Re, Ta, and Nb printing via EBM and LPBF — density >99%, complex internal channels possible."
+icon        = "✨"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "High-Entropy Alloys"
+description        = "HEA powder production and LPBF printing — CrMnFeCoNi and custom compositions for R&D and production."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Speciality Powder Supply"
+description        = "Small-lot exotic powder supply — refractory metals, precious metals, and custom alloy blends from 100g."
+icon        = "⚗️"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Materials Consulting"
+description        = "Alloy selection and process development for extreme-environment AM applications — DfAM and material characterisation."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprinttitanium.com"
+url         = "https://3dprinttitanium.com"
+description = "Titanium 3D printing"
+
+[[params.clusterLinks]]
+name        = "steel3dprint.com"
+url         = "https://steel3dprint.com"
+description = "Steel 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
